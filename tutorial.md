@@ -27,4 +27,4 @@ With new key combinations entered, we can now write to the keyboard. Hit that "W
 
 After clicking "OK", the software will automatically read the new configuration back from the keyboard. This will let you confirm that your commands were successfully saved. Everything you write to the keyboard is saved into special memory called EEPROM - this means your settings will persist even after disconnecting your keyboard from the computer.
 
-What if you want your keyboard to control something that doesn't have a keyboard shortcut? You create a keyboard shortcut of course! Software like AutoHotkey (for Windows), or Karabiner (for macOS) can help you set up custom keyboard shortcuts. And once you have those, you should be good to go!
+What if you want your keyboard to control some very complex button sequence or series of hotkeys that are beyond the ability of the Macropad? You can use a Software like AutoHotkey (for Windows), or Karabiner (for macOS) can help you set up complex keyboard sequences and hotkeys. And once you have those, you should be good to go!
